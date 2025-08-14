@@ -9,12 +9,12 @@
 /*-------------------------------------*/
 :root {
 	/* Primary Colors */
-	--primary-color: #7dbbbb;
-	--secondary-color: #161c1dcc;
-	--highlight-hover: rgba(255, 255, 255, 0.3);
-	--highlight-active: rgba(255, 255, 255, 0.1);
+	--primary-color: #991e2a;
+	--secondary-color: #21242571;
+	--highlight-hover: rgba(240, 232, 232, 0.493);
+	--highlight-active: rgba(255, 255, 255, 0.541);
 	/* Primary Text */
-	--text-headers: rgba(0, 0, 0, 1);
+	--text-headers: rgba(0, 0, 0, 0.87);
 	--text-location: rgba(255, 255, 255, 0.87);
 	/* Location Information */
 	--location-separator: rgba(255, 255, 255, 0.24);
@@ -23,10 +23,10 @@
 	--text-mission-status: rgba(255, 255, 255, 0.87);
 	--mission-start: rgba(109, 109, 109, 1);
 	--mission-partial: rgba(88, 34, 102, 1);
-	--mission-success: #226662;
-	--mission-failure: rgba(176, 45, 45, 1);
-	--primary-logo: #0C3C40;
-	--secondary-logo: #146464;
+	--mission-success: #991e2a;
+	--mission-failure: rgb(45, 176, 154);
+	--primary-logo: #991e2a;
+	--secondary-logo: #991e2a;
 	/* Pilot Roster Text */
 	--text-pilot-header: rgba(255, 255, 255, 0.67);
 	--text-pilot-value: rgba(255, 255, 255, 0.87);
